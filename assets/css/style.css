@@ -12,6 +12,7 @@ body {
     margin: 3rem auto;
     height: auto;
     border: solid 1px rgba(0, 0, 0, 0.6);
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.753);
 }
 
 .logo {
@@ -37,7 +38,7 @@ body {
 }
 
 .Imagem2 {
-    max-height: 27rem;
+    max-height: 28rem;
 
     float: left;
 }
