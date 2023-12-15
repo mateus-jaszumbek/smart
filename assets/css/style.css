@@ -108,3 +108,11 @@ b {
         opacity: 0;
     }
 }
+
+/* Media query para telas menores que 600px */
+@media screen and (max-width: 574px) {
+
+    .Imagem2 {
+        display: none;
+}
+  }
